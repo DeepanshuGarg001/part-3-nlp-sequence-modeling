@@ -1,0 +1,3 @@
+Text: my order is delayed -> Predicted: neutral
+Text: how to reset my password -> Predicted: neutral
+Text: i want a refund -> Predicted: neutral
